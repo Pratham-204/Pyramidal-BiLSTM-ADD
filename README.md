@@ -95,6 +95,3 @@ python main.py --fresh-features
 
 ## Logging
 Logs are printed to the console and automatically saved to the `logs/` directory.
-
-## License
-MIT License
