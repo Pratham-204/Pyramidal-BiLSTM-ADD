@@ -14,7 +14,7 @@ This repository contains the implementation of an end-to-end audio deepfake dete
 
 The model was trained and evaluated on two major benchmarks:
 
-* **Fake-or-Real (FoR) Dataset:** * **99.25% Accuracy** on clean, full-length utterances (`for-norm`).
+* **Fake-or-Real (FoR) Dataset:** * **96.57% Accuracy** on clean, full-length utterances (`for-norm`).
   * Demonstrated strong resilience and feature extraction capabilities on truncated 2-second audio clips.
 * **ASVspoof 2019 LA Dataset:** * Achieved an Equal Error Rate (EER) of 0.1053 and an AUC-ROC of 0.9608.
 
